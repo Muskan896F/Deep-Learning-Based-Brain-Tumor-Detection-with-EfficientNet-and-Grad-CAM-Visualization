@@ -175,3 +175,4 @@ cython_debug/
 augmented_data/
 model.h5
 tumorous_and_nontumorous/
+model_weights/
