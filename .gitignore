@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 augmented_data/
 model.h5
+tumorous_and_nontumorous/
